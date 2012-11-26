@@ -1,0 +1,162 @@
+html, body, img, div, p, span, ul, li, ol, form, frame, iframe, span, a, em, i, b, strong, h1, h2, h3, h4, h5, h6, table, td, tr, th, input, select, textarea, header, nav, section, article, aside, footer {
+    padding:0; margin:0; font-family: "Times New Roman", Times, serif;
+}
+header, nav, section, article, aside, footer {
+    display:block;
+}
+html {height:100%;}
+body {
+    position:relative; 
+    height:100%; 
+    _behavior:url("./js/csshover3.htc");
+}
+img {
+    border:0;
+}
+a {
+    outline:none;
+}
+a:hover {
+    text-decoration:none;
+}
+ul {
+    list-style:none;
+}
+*:focus {
+    outline: none;
+}
+textarea{
+    resize:none;
+}
+
+header {
+    overflow:hidden;
+    zoom:1;
+    width:1000px;
+    height:560px;
+}
+.wraper {
+    background:url(../img/back.png) repeat-y;
+    width:1000px;
+    margin:0 auto;
+    display:block;
+}
+.header_left {
+    float:left;
+    display:block;
+    width:426px;
+    height:363px;
+    background: url(../img/logo.png) no-repeat;
+}
+
+.header_right{
+    float:right;
+}
+
+.logo_right{
+    display:block;
+    background: url(../img/box6.png) no-repeat;
+    width: 523px;
+    height: 136px;
+    margin: 35px 40px 0 0;
+    border-radius: 15px;
+}
+
+.box1{
+    display:inline-block;
+    background: url(../img/box1.png) no-repeat;
+    width: 292px;
+    height: 145px;
+    margin-top: 18px;
+    border-radius: 15px;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu li {
+    float: left;
+    margin: 0 7px;
+}
+
+.menu li a {
+    background: url(../img/layer1.png) no-repeat;
+    width: 218px;
+    height: 176px;
+    float: left;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+.box3{
+    display:inline-block;
+    background: url(../img/box3.png) no-repeat;
+    width: 204px;
+    height: 145px;
+    margin: 10px 0 0 10px;
+    border-radius: 15px;
+}
+
+.content {
+    height: 100%;
+    width: 1000px;
+}
+
+.content p {
+    padding: 30px 0 0 40px;
+    color: #FFF; 
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.search_auto {
+    display:block;
+    float: left;
+    background: url(../img/box5.png) no-repeat;
+    width: 264px;
+    height: 419px;
+    margin: 18px 0 0 38px;
+    border-radius: 20px;
+}
+
+.search_brand {
+    display: inline-block;
+    float: right;
+    background: url(../img/box4.png) no-repeat;
+    width: 648px;
+    height: 162px;
+    margin: 18px 28px 0 0;
+    border-radius: 25px;
+}
+
+.bestsellers ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 690px;
+}
+
+.bestsellers li {
+    float: left;
+    margin: 15px 0 5px 18px ;
+}
+
+.bestsellers li a {
+    background: url(../img/box2.png) no-repeat;
+    width: 206px;
+    height: 188px;
+    float: right;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+.footer {
+    /*display:block;*/
+    width:1000px;
+    height:300px;
+    background: url(../img/footer.png) no-repeat;
+}

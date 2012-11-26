@@ -1,0 +1,50 @@
+2012-10-17 13:48:05 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'PK' at line 1<br />Error No: 1064<br />PK in /home/dimak300/domains/1car.com.ua/public_html/system/database/mysql.php on line 49
+2012-10-21 5:46:15 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE product_id = 0' at line 1<br />Error No: 1064<br />UPDATE op_product SET  WHERE product_id = 0 in /home/dimak300/domains/1car.com.ua/public_html/system/database/mysql.php on line 49
+2012-11-20 21:27:39 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.language.1353443259) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-20 21:27:39 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-20 21:27:39 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-20 21:27:39 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.currency.1353443259) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-20 21:27:39 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-20 21:27:39 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-20 21:28:32 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.language.1353443312) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-20 21:28:32 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-20 21:28:32 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-20 21:28:32 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.currency.1353443312) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-20 21:28:32 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-20 21:28:32 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-24 13:24:50 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.language.1353759890) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-24 13:24:50 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-24 13:24:50 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-24 13:24:50 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.currency.1353759890) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-24 13:24:50 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-24 13:24:50 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-24 15:36:56 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.language.1353767816) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-24 15:36:56 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-24 15:36:56 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-24 15:36:56 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.currency.1353767816) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-24 15:36:56 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-24 15:36:56 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-24 15:37:00 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.language.1353767820) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-24 15:37:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-24 15:37:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-24 15:37:00 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.currency.1353767820) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-24 15:37:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-24 15:37:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-24 15:41:17 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.language.1353768077) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-24 15:41:17 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-24 15:41:17 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-24 15:41:17 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.currency.1353768077) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-24 15:41:17 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-24 15:41:17 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-24 15:42:26 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.language.1353768146) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-24 15:42:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-24 15:42:26 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-24 15:42:26 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.currency.1353768146) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-24 15:42:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-24 15:42:26 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-24 15:47:03 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.language.1353768423) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-24 15:47:03 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-24 15:47:03 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
+2012-11-24 15:47:03 - PHP Warning:  fopen(/home/1car/wwwsystem/cache/cache.currency.1353768423) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\1car\www\system\library\cache.php on line 36
+2012-11-24 15:47:03 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 38
+2012-11-24 15:47:03 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\1car\www\system\library\cache.php on line 40
